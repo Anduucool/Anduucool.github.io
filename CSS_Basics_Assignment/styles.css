@@ -1,0 +1,22 @@
+body {
+    color: rgb(19, 14, 14); 
+    background-color: lightblue;
+    border: 2px solid black;
+}
+h1 {
+    font-size: 1rem;
+    font-family: "Arial", sans-serif;
+    color: darkred;
+}
+p {
+    list-style-type: square;
+    color: black;
+    font-family: 'Georgia', serif;
+    font-size: 1.2em;
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+div {
+    background-color: lightgray;
+    border: 2px solid #B22222;
+}
